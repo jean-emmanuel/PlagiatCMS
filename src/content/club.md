@@ -9,7 +9,7 @@ for post in posts:
     club_meta = get_meta(post)
     user = 'Plagiat le ?? à ??' if 'user' not in club_meta else club_meta['user']
     color = 'black' if 'color' not in club_meta else club_meta['color']
-    title = page.split('/')[-1].split('.md')[0] if 'title' not in club_meta else club_meta['title']
+    title = post.split('/')[-1].split('.md')[0] if 'title' not in club_meta else club_meta['title']
     type = 'text' if 'type' not in club_meta else club_meta['type']
     club_content = include(post)
     print(f"""
