@@ -8,5 +8,5 @@ type: image
 
 <map name="paniniresort">
 <area shape="poly" coords="279,565,278,538,300,519,504,520,526,537,524,561,506,576,297,579" href="#" />
-<area shape="circle" coords="671,274,20" href="plagiat.org/uploads/2023-10-17_PaniniResort.png" />
+<area shape="circle" coords="671,274,20" href="https://plagiat.org/uploads/2023-10-17_PaniniResort.png" />
 </map>
