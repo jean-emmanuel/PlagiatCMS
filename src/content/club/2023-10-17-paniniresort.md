@@ -12,5 +12,5 @@ type: image
 <!-- #$-:Please do not edit lines starting with "#$" -->
 <!-- #$VERSION:2.3 -->
 <!-- #$AUTHOR:bordun -->
-<area shape="poly" coords="279,565,278,538,300,519,504,520,526,537,524,561,506,576,297,579" href="https://plagiat.org/mesdocuments/panini-countdown" />
+<area shape="poly" coords="279,565,278,538,300,519,504,520,526,537,524,561,506,576,297,579" href="#" />
 </map>
