@@ -460,3 +460,20 @@ hr {
     border-radius: 20px;
     border-top-left-radius: 0;
 }
+
+#ordre-moral {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#ordre-moral #odd {
+    display: none;
+}
+
+#ordre-moral:hover #od {
+    display: none;
+}
+
+#ordre-moral:hover #odd {
+    display: inherit;
+}
