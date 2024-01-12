@@ -63,7 +63,7 @@ body {
 }
 
 
-ul, p, hr,
+ul, p, hr, blockquote,
 .media, .grid, .iframe,
 h1, h2, h3, h4, h5 {
     margin-bottom: var(--gap);
@@ -170,6 +170,14 @@ hr {
     );
     background-size: 758px;
     background-repeat: no-repeat; */
+}
+
+blockquote {
+    display: block;
+    padding-left: var(--gap);
+    border-left: 4px solid #ccc;
+    opacity: 0.9;
+
 }
 
 
@@ -463,7 +471,7 @@ hr {
 
 #ordre-moral {
     margin-top: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 #ordre-moral #odd {
