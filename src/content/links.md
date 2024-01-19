@@ -24,7 +24,7 @@ Hall of fame de ceusses qu’on performé au niveau du mérite
 
 
 ### Bernie Legal
-Vas-y, toi-même, plagie [plaʒia]. Les Plagiat Brothers et tout ce qu’ils publient sont sous licence CC-BY-SA 4.0 (textes, musiques, images, vidéos) et GNU/GPL-3.0 (codes sources informatiques).
+Vas-y, toi-même, plagie [plaʒia]. Les Plagiat Bros·e·s Brother·e·s et tout ce qu’ils publient sont sous licence CC-BY-SA 4.0 (textes, musiques, images, vidéos) et GNU/GPL-3.0 (codes sources informatiques).
 
 ### RGPD
-Tes données personnelles n’intéressent pas les Plagiat Bros
+Tes données personnelles n’intéressent pas les Plagiat Bros·e·s

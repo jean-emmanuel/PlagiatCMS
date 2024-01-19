@@ -8,13 +8,13 @@ title: About
 
 
 
-### Pour une relation tarifé·e·r avec les Plagiat Bros
+### Pour une relation tarifé·e·r avec les Plagiat Bros·e·s
 
 Au nivo du tarif des relations, dans le meilleur des cas où que t’es un parti riche, notre dot c’est 660 € + les frais de transport, ainsi on devient des travailleurs précaires. Mais nous, on t’aime même si t’as pas les moyens de nous rendre précaires, et donc si tu dois faire de nous tes travailleurs pauvres, on vient quand même, l’esclavage nous convient aussi, tant que le patron est honnête.
 
 Pour nous acheter tu commandes sur [coloscopie@plagiat.org](mailto:coloscopie@plagiat.org)
 
 
-### Pour recevoir des nouvelles des Plagiat Bros dans tes SPAM
+### Pour recevoir des nouvelles des Plagiat Bros·e·s dans tes SPAM
 
 Envoie un mail à [plagiatbonsplans-subscribe@ammd.net](mailto:plagiatbonsplans-subscribe@ammd.net), ou envoie PLAGIAT par sms au 72020 mais c'est plus cher et moins sûr.
