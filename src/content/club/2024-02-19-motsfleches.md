@@ -4,4 +4,4 @@ color: #ff5500
 type: image
 ----
 
-{% img('https://plagiat.org/uploads/2024-02-19_MotsFleches.png') %}
+<a href="https://plagiat.org/uploads/2024-02-19_MotsFleches.png">{% img('https://plagiat.org/uploads/2024-02-19_MotsFleches.png', quality=90) %}</a>

@@ -275,7 +275,7 @@ class Renderer():
         return self.globals[name] if name in self.globals else default
 
 
-    def image_cache(self, path, resize=None):
+    def image_cache(self, path, resize=None, quality=70):
 
         distant_src = 'http://' in path or 'https://' in path
 
@@ -325,7 +325,7 @@ class Renderer():
             if not gif:
                 resized_image = src_img.convert('RGB')
                 resized_image = resized_image.resize((resize, height), Image.ANTIALIAS)
-                resized_image.save(cache_path, optimize=True,quality=70)
+                resized_image.save(cache_path, optimize=True,quality=quality)
             else:
                 # https://gist.github.com/brvoisin/1ece9083b661bb67bb9d235546b1960a
                 def _thumbnail_frames(image):
