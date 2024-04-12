@@ -324,7 +324,7 @@ class Renderer():
             print('Caching resized (%sx%s) image: %s' % (resize, height, cache_path))
             if not gif:
                 resized_image = src_img.convert('RGB')
-                resized_image = resized_image.resize((resize, height), Image.ANTIALIAS)
+                resized_image = resized_image.resize((resize, height), Image.Resampling.LANCZOS)
                 resized_image.save(cache_path, optimize=True,quality=quality)
             else:
                 # https://gist.github.com/brvoisin/1ece9083b661bb67bb9d235546b1960a
