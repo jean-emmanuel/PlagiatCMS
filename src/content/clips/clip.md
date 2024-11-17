@@ -1,7 +1,7 @@
 {%%
 
 data = include('bases/clips.yml')[current_page]
-peertube = parse_peertube_url(data['url'])
+peertube = parse_peertube_url(data['url'], data['maxres'] if 'maxres' in data else 1080)
 
 %%}
 ----
@@ -18,7 +18,7 @@ title: {% data['title'] %}
 
 ### Téléchargement
 
-- [1080p]({% peertube['1080p'] %})
+- [HD]({% peertube['maxres'] %})
 - [720p]({% peertube['720p'] %})
 - [360p]({% peertube['360p'] %})
 
