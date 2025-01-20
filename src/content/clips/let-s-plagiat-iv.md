@@ -6,6 +6,6 @@ D'un point de vu strictement cinématographique, **une mention spéciale « Film
 
 Au terme d'un visionnage assidu et attentif, le sujet ne peut s'y tromper : Let's Plagiat IV rebat les cartes et pose les questions qui fâchent sans céder à la solution facile des réponses préconçue : quelle est ta marque de bx millésime préférée ? pourquoi les cheveux ? combien ça coûte ? comment ça sonne en vrai ? et le réel : qu'est-ce que c'est, je veux dire, vraiment ? et quid du nombre maximum légal de « : » dans une phrase ?
 
-On comprend en définitive la saine nécessité d'offrir ici une boite à outils métaphysique Festool™ pour aborder la problématique du choix d'un groupe sous-payable plutôt qu'un autre pour animer votre soirée c'est-parti-c'est-parti-c'est-parti-l'ambiance-est-déjà-folle, plus que d'offrir la réponse sur un plateau.
+On comprend en définitive la saine nécessité d'offrir ici une boite à outils métaphysique Festool™ pour aborder la problématique du choix d'un groupe sous-payable plutôt qu'un autre pour animer votre soirée c'est-parti-c'est-parti-c'est-parti-l'ambiance-est-déjà-folle, et ce dans le plus noble des buts : faire du com·prog de demain l'acteur et non le réacteur de sa propre cabane à teuf.
 
 NB : sous-titré par BHL dans un bon jour.
