@@ -14,7 +14,7 @@ all:
 	@make --no-print-directory assets
 
 site:
-	@python3 -m kishta --src $(SRC_DIR) --out $(BUILD_DIR)
+	@cd kishta && python3 -m kishta --src ../$(SRC_DIR) --out ../$(BUILD_DIR)
 
 assets:
 	@echo 'Syncing static assets...'
