@@ -1,0 +1,3 @@
+[submodule "kishta"]
+	path = kishta
+	url = https://github.com/jean-emmanuel/kishta

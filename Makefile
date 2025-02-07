@@ -15,7 +15,7 @@ all:
 
 site:
 	@echo 'Building site...'
-	@python3 $(CMS_DIR) $(SRC_DIR) $(BUILD_DIR)
+	@python3 -m kishta --src $(SRC_DIR) --out $(BUILD_DIR)
 
 assets:
 	@echo 'Syncing static assets...'
