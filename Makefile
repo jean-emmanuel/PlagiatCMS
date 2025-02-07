@@ -14,7 +14,6 @@ all:
 	@make --no-print-directory assets
 
 site:
-	@echo 'Building site...'
 	@python3 -m kishta --src $(SRC_DIR) --out $(BUILD_DIR)
 
 assets:
