@@ -15,7 +15,7 @@ def format_date(date, info):
 
     output = ''
 
-    description = info['description']
+    description = info['description'] if 'description' in info else ''
     if description == None: description = ''
     description = description.replace('"', "'")
 
