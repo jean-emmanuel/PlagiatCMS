@@ -511,6 +511,7 @@ blockquote {
     position: absolute;
     opacity: 0;
     background-repeat: no-repeat;
+    pointer-events: none;
 }
 
 #biadge .templar {
@@ -552,6 +553,7 @@ blockquote {
     border: 6px #e19b15 groove;
     box-shadow: 0 0 0 1px #fff, 0 0 0 4px #ffcb00;
     outline: none;
+    pointer-events: none;
 }
 
 @keyframes frombottom {
@@ -564,6 +566,7 @@ blockquote {
     }
     100% {
         opacity: 1;
+        pointer-events: auto;
     }
 }
 @keyframes fromright {
