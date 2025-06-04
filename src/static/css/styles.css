@@ -485,3 +485,21 @@ blockquote {
 #ordre-moral:hover #odd {
     display: inherit;
 }
+
+
+
+
+#biadge {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 40%;
+    height: 100%;
+}
+#biadge * {
+    width:100%;
+    height:100%;
+    background-size: contain;
+    background-position: bottom right;
+    position: absolute;
+}
