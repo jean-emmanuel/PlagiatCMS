@@ -9,9 +9,9 @@ def parse_peertube_url(url, maxres=1080):
         meta = {
             'thumbnail': 'https://%s/lazy-static/previews/%s.jpg' % (peertube_domain, id),
             'iframe': 'https://%s/videos/embed/%s' % (peertube_domain, id),
-            'maxres': 'https://%s/download/videos/%s-%i.mp4' % (peertube_domain, id, maxres),
-            '720p': 'https://%s/download/videos/%s-720.mp4' % (peertube_domain, id),
-            '360p': 'https://%s/download/videos/%s-360.mp4' % (peertube_domain, id),
+            'maxres': 'https://%s/download/streaming-playlists/hls/videos/%s-%i-fragmented.mp4' % (peertube_domain, id, maxres),
+            '720p': 'https://%s/download/streaming-playlists/hls/videos/%s-720-fragmented.mp4' % (peertube_domain, id),
+            '360p': 'https://%s/download/streaming-playlists/hls/videos/%s-360-fragmented.mp4' % (peertube_domain, id),
         }
         return meta
     else:
