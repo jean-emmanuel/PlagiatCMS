@@ -1,5 +1,5 @@
 ----
-user: ChristianClibBait@JesusPourDieuSaitQuoi le 21/10/25 à 20h01
+user: ChristianClicBait@JesusPourDieuSaitQuoi le 21/10/25 à 20h01
 color: #ffa507
 type: image
 ----
